@@ -1,0 +1,6 @@
+xx.xx.xx.xx:port:user:password
+notaproxy
+incorrect
+2894
+test
+xx.xx.xx.xx:port
